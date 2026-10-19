@@ -1,0 +1,6 @@
+{
+  "name": "AR Draw Tracing - Căn Ke Vẽ Tranh",
+  "description": "Ứng dụng hỗ trợ căn ke vẽ tranh trực tiếp qua màn hình camera với bộ lọc chỉnh độ mờ, sáng và tương phản.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
